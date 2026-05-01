@@ -1,0 +1,7 @@
+node_modules/
+.vercel/
+capture.js
+package.json
+package-lock.json
+인사말.html
+.vercelignore
